@@ -1,5 +1,5 @@
 # Virtual-Card
-Virtual card created during NLW Heat event.
+Virtual card created during NLW Heat event. Uses the Github API to show user information on the card.
 
 # Tools
 - HTML
